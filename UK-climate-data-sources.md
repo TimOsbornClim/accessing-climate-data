@@ -13,7 +13,7 @@ These series are calculated from averages of long-running raingauge records (in 
 - Monthly series for Northern Ireland and regions in Scotland: 1931-present
 - Daily series in all cases: 1931-present
 
-Here are the regions^[CEEnote]:
+Here are the regions ^[CEEnote] :
 
 [^CEEnote]: Note that in the series of publications that defined these regions, 'Central England' Precipitation (CEP) is actually called 'Central and East England' precipitation (CEEP) and this is recommended for consistency with the published literature and to avoid confusion with 'Central England Temperature' #CET which is a different region to CEEP.
 
