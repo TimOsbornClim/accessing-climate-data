@@ -6,4 +6,4 @@ Guides & tutorials for accessing climate data.
 
 ## Observations / climate data based on observations
 
-(Sources of observed UK climate data sources)[UK-climate-data-sources.md]
+[Sources of observed UK climate data sources](UK-climate-data-sources.md)
