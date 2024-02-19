@@ -15,7 +15,7 @@ These series are calculated from averages of long-running raingauge records (in 
 
 Here are the regions:
 
-[!UK precipitation regions](images/Pasted image 20240215121505.png)
+![UK precipitation regions](images/Pasted image 20240215121505.png)
 
 <details>
 <summary>Sidenote on region names</summary>
