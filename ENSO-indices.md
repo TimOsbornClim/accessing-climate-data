@@ -1,3 +1,9 @@
+#### Resources to provide practical help with accessing climate data
+*Compiled by Tim Osborn, Climatic Research Unit, School of Environmental Sciences, University of East Anglia, Norwich, UK*
+[https://timosbornclim.github.io/accessing-climate-data/](https://timosbornclim.github.io/accessing-climate-data/)
+
+# El Niño Southern Oscillation (ENSO) indices
+
 ### Intro
 
 ENSO (=El Niño/Southern Oscillation) is a coupled ocean-atmosphere Mode of Variability (MoV) whose state/evolution can be tracked via various ENSO indices. Some indices capture the state of the atmosphere, some the state of the ocean, and some capture both. Each index can be calculated from different source data (with differing outcomes where source data are uncertain). And each index can be processed differently (e.g. different smoothing/filtering to remove short-term variability, or different techniques for removing the long-term climate change trend to leave the natural internal variability).
@@ -10,9 +16,9 @@ NOAA/PSL have a useful ENSO dashboard including explanations of the various indi
 [https://psl.noaa.gov/enso/dashboard.html](https://psl.noaa.gov/enso/dashboard.html)
 
 John Kennedy has a list of ENSO resources and ENSO indices:
-[](https://diagrammonkey.wordpress.com/monitoring-resources/)
+[https://diagrammonkey.wordpress.com/monitoring-resources/](https://diagrammonkey.wordpress.com/monitoring-resources/)
 
-Useful map from Australian BoM (http://www.bom.gov.au/climate/influences/images/map-indices.png) showing the key regions used for most of the atmosphere and ocean indices:
+Useful map from Australian BoM [http://www.bom.gov.au/climate/influences/images/map-indices.png](http://www.bom.gov.au/climate/influences/images/map-indices.png) showing the key regions used for most of the atmosphere and ocean indices:
 
 ![map of key regions for ENSO indices](images/enso_index_map.png)
 
