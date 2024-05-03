@@ -68,6 +68,8 @@ These combine information about the atmosphere and the ocean, which seems like a
 - NOAA/PSL/Cathy Smith:
 	- A simpler multivariate index is 'bivariate ENSO index' based only individual timeseries of SOI and Nino3.4 rather than on patterns of SST and SLP (info here: [https://psl.noaa.gov/people/cathy.smith/best/](https://psl.noaa.gov/people/cathy.smith/best/); paper here: [Smith & Sardeshmukh (2000)](https://doi.org/10.1002/1097-0088(20001115)20:13%3C1543::AID-JOC579%3E3.0.CO;2-A)). Data based on GISST Nino3.4 [^1] and CRU/Jones SOI (1870-present): [https://psl.noaa.gov/people/cathy.smith/best/#values](https://psl.noaa.gov/people/cathy.smith/best/#values) (PSL also have a version running only to 2003 [https://psl.noaa.gov/data/correlation/censo.long.data](https://psl.noaa.gov/data/correlation/censo.long.data))
 
+#### Footnotes
+
 [^1]: Note that they may now use a different SST dataset because the index is updated to present but GISST is a legacy dataset that isn't updated because it has been superseded by better SST datasets such as HadISST.
 
 
