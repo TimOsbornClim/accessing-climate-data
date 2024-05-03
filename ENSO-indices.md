@@ -26,9 +26,9 @@ Useful map from Australian BoM [http://www.bom.gov.au/climate/influences/images/
 
 These are typically based on the sea level pressure (SLP) difference between two weather stations, as an indicator of the trade winds (and Walker Circulation) over the central/western Pacific.
 
-- CRU/Jones SOI (1866-present): https://crudata.uea.ac.uk/cru/data/soi/
-- Australian BoM (1876-present): http://www.bom.gov.au/climate/enso/soi/ (and a nice plot of their SOI data is here: http://www.bom.gov.au/climate/enso/#tabs=Pacific-Ocean&pacific=History)
-- NOAA/NCEP CPC (split into 1882-1950 and 1951-present): https://www.cpc.ncep.noaa.gov/data/indices/
+- CRU/Jones SOI (1866-present): [https://crudata.uea.ac.uk/cru/data/soi/](https://crudata.uea.ac.uk/cru/data/soi/)
+- Australian BoM (1876-present): [http://www.bom.gov.au/climate/enso/soi/](http://www.bom.gov.au/climate/enso/soi/) (and a nice plot of their SOI data is here: [http://www.bom.gov.au/climate/enso/#tabs=Pacific-Ocean&pacific=History](http://www.bom.gov.au/climate/enso/#tabs=Pacific-Ocean&pacific=History))
+- NOAA/NCEP CPC (split into 1882-1950 and 1951-present): [https://www.cpc.ncep.noaa.gov/data/indices/](https://www.cpc.ncep.noaa.gov/data/indices/)
 
 Before using them, these monthly timeseries are often smoothed (with a 3-, 5- or 7-month running mean) to reduce short-term variability and allow the persistent El Niño and La Niña events to stand out.
 
@@ -38,9 +38,9 @@ Some other atmosphere only indices use patterns of SLP across the tropical Pacif
 
 These are typically based on average sea surface temperature (SST) over different spatial regions (see earlier map). Sometimes they use SST anomalies.
 
-See here for a guide to these Nino SST indices: https://climatedataguide.ucar.edu/climate-data/nino-sst-indices-nino-12-3-34-4-oni-and-tni
+See here for a guide to these Nino SST indices: [https://climatedataguide.ucar.edu/climate-data/nino-sst-indices-nino-12-3-34-4-oni-and-tni](https://climatedataguide.ucar.edu/climate-data/nino-sst-indices-nino-12-3-34-4-oni-and-tni)
 
-Sometimes they are also "centred" or "detrended" in some way (otherwise ongoing climatic warming could move us towards permanent El Niño conditions, whereas really an El Niño is a temporary additional warming of the equatorial Pacific above its current background temperature).  A discussion of this issue, and a definition of a "relative" Nino3.4 index to address this issue, is provided by van Oldenborgh et al. (2021, https://doi.org/10.1088/1748-9326/abe9ed).
+Sometimes they are also "centred" or "detrended" in some way (otherwise ongoing climatic warming could move us towards permanent El Niño conditions, whereas really an El Niño is a temporary additional warming of the equatorial Pacific above its current background temperature).  A discussion of this issue, and a definition of a "relative" Nino3.4 index to address this issue, is provided by [van Oldenborgh et al. (2021)](https://doi.org/10.1088/1748-9326/abe9ed).
 
 These Nino indices also vary according to which SST dataset was used.
 
