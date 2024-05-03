@@ -7,13 +7,14 @@ I've made a compilation of many different indices that seem to be most the commo
 ### Useful resources overall
 
 NOAA/PSL have a useful ENSO dashboard including explanations of the various indices:
-https://psl.noaa.gov/enso/dashboard.html
+[https://psl.noaa.gov/enso/dashboard.html]
 
 John Kennedy has a list of ENSO resources and ENSO indices:
 https://diagrammonkey.wordpress.com/monitoring-resources/
 
 Useful map from Australian BoM (http://www.bom.gov.au/climate/influences/images/map-indices.png) showing the key regions used for most of the atmosphere and ocean indices:
-![[Pasted image 20230426133141.png]]
+
+![map of key regions for ENSO indices](images/enso_index_map.png)
 
 ### Atmosphere only indices (e.g. Southern Oscillation Index, SOI)
 
