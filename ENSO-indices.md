@@ -28,7 +28,7 @@ These are typically based on the sea level pressure (SLP) difference between two
 
 - CRU/Jones SOI (1866-present): [https://crudata.uea.ac.uk/cru/data/soi/](https://crudata.uea.ac.uk/cru/data/soi/)
 - Australian BoM (1876-present): [http://www.bom.gov.au/climate/enso/soi/](http://www.bom.gov.au/climate/enso/soi/) (and a nice plot of their SOI data is here: [http://www.bom.gov.au/climate/enso/#tabs=Pacific-Ocean&pacific=History](http://www.bom.gov.au/climate/enso/#tabs=Pacific-Ocean&pacific=History))
-- NOAA/NCEP CPC (split into 1882-1950 and 1951-present): [https://www.cpc.ncep.noaa.gov/data/indices/](https://www.cpc.ncep.noaa.gov/data/indices/)
+- NOAA/NCEP CPC (split into the first entry which is 1951-present and includes a version where a 3-month running mean has already been applied, and a separate file for the 1882-1950 period): [https://www.cpc.ncep.noaa.gov/data/indices/](https://www.cpc.ncep.noaa.gov/data/indices/)
 
 Before using them, these monthly timeseries are often smoothed (with a 3-, 5- or 7-month running mean) to reduce short-term variability and allow the persistent El Niño and La Niña events to stand out.
 
@@ -45,11 +45,11 @@ Sometimes they are also "centred" or "detrended" in some way (otherwise ongoing 
 These Nino indices also vary according to which SST dataset was used.
 
 - NOAA/NCEP CPC:
-	- Nino1+2, Nino3, Nino4, Nino3.4 based on OISST.v2.1 (1982-present): https://www.cpc.ncep.noaa.gov/data/indices/
-	- Nino1+2, Nino3, Nino4, Nino3.4 based on ERSSTv5 (1950-present): https://www.cpc.ncep.noaa.gov/data/indices/
-	- "Centred" Nino3.4 based on ERSSTv5 (1950-present): https://www.cpc.ncep.noaa.gov/data/indices/
-	- Oceanic Nino Index (ONI) (I think this is just a 3-month running average of the "Centred" Nino3.4) based on ERSSTv5 (1950-present): https://www.cpc.ncep.noaa.gov/data/indices/ and data also listed here https://origin.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php
-	- "relative" Nino3.4 index based on ERSSTv5 (1950-present): https://www.cpc.ncep.noaa.gov/data/indices/
+	- Nino1+2, Nino3, Nino4, Nino3.4 based on OISST.v2.1 (1982-present): [Sea Surface Temperature (SST) section here https://www.cpc.ncep.noaa.gov/data/indices/](https://www.cpc.ncep.noaa.gov/data/indices/)
+	- Nino1+2, Nino3, Nino4, Nino3.4 based on ERSSTv5 (1950-present): [https://www.cpc.ncep.noaa.gov/data/indices/](https://www.cpc.ncep.noaa.gov/data/indices/)
+	- "Centred" Nino3.4 based on ERSSTv5 (1950-present): [https://www.cpc.ncep.noaa.gov/data/indices/](https://www.cpc.ncep.noaa.gov/data/indices/)
+	- Oceanic Nino Index (ONI) (I think this is just a 3-month running average of the "Centred" Nino3.4) based on ERSSTv5 (1950-present): [https://www.cpc.ncep.noaa.gov/data/indices/](https://www.cpc.ncep.noaa.gov/data/indices/) and data also listed here https://origin.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php
+	- "relative" Nino3.4 index based on ERSSTv5 (1950-present): [https://www.cpc.ncep.noaa.gov/data/indices/](https://www.cpc.ncep.noaa.gov/data/indices/)
 - NOAA/ESRL:
 	- Nino3.4 based on HadISST (1870-present): see under Data Access here: https://climatedataguide.ucar.edu/climate-data/nino-sst-indices-nino-12-3-34-4-oni-and-tni
 - Miami:
