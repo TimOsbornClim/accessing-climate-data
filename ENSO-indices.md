@@ -13,7 +13,7 @@ I've made a compilation of many different indices that seem to be most the commo
 ### Useful resources overall
 
 NOAA/PSL have a useful ENSO dashboard including explanations of the various indices:
-[https://psl.noaa.gov/enso/dashboard.html](https://psl.noaa.gov/enso/dashboard.html)
+[https://psl.noaa.gov/enso/dashboard.html](https://psl.noaa.gov/enso/dashboard.html) [Note that some data links are out of date; e.g. see below for the NOAA/ESRL Nino3.4 data link.]
 
 John Kennedy has a list of ENSO resources and ENSO indices:
 [https://diagrammonkey.wordpress.com/monitoring-resources/](https://diagrammonkey.wordpress.com/monitoring-resources/)
@@ -51,7 +51,7 @@ These Nino indices also vary according to which SST dataset was used.
 	- Oceanic Nino Index (ONI) (I think this is just a 3-month running average of the "Centred" Nino3.4) based on ERSSTv5 (1950-present): [Sea Surface Temperature (SST) section here https://www.cpc.ncep.noaa.gov/data/indices/](https://www.cpc.ncep.noaa.gov/data/indices/) and data also listed here https://origin.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php
 	- "relative" Nino3.4 index based on ERSSTv5 (1950-present): [Sea Surface Temperature (SST) section here https://www.cpc.ncep.noaa.gov/data/indices/](https://www.cpc.ncep.noaa.gov/data/indices/)
 - NOAA/ESRL:
-	- Nino3.4 based on HadISST (1870-present): see under Data Access here: [https://climatedataguide.ucar.edu/climate-data/nino-sst-indices-nino-12-3-34-4-oni-and-tni](https://climatedataguide.ucar.edu/climate-data/nino-sst-indices-nino-12-3-34-4-oni-and-tni)
+	- Nino3.4 based on HadISST (1870-present): [https://psl.noaa.gov/data/timeseries/month/DS/Nino34/](https://psl.noaa.gov/data/timeseries/month/DS/Nino34/)
 - Miami:
 	- Nino3.4 and ONI based on ERSSTv5 (1854-present): [https://bmcnoldy.rsmas.miami.edu/tropics/oni/ONI_NINO34_1854-2023.txt](https://bmcnoldy.rsmas.miami.edu/tropics/oni/ONI_NINO34_1854-2023.txt)
 
