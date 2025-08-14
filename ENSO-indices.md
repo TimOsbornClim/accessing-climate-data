@@ -67,7 +67,10 @@ These combine information about the atmosphere and the ocean, which seems like a
 	- Extended MEI (MEI.ext) which uses patterns from only SLP and SST which have earlier data so the index can begin much earlier (info here: [https://psl.noaa.gov/enso/mei.ext/](https://psl.noaa.gov/enso/mei.ext/); paper here: [Wolter & Timlin (2011)](https://doi.org/10.1002/joc.2336); and data based on HadSST2 and HadSLP2 (1871-2005) here: [https://psl.noaa.gov/enso/mei.ext/table.ext.html](https://psl.noaa.gov/enso/mei.ext/table.ext.html)
 
 - NOAA/PSL/Cathy Smith:
-	- A simpler multivariate index is 'bivariate ENSO index' based only on individual timeseries of SOI and Nino3.4 rather than on patterns of SST and SLP (info here: [https://psl.noaa.gov/people/cathy.smith/best/](https://psl.noaa.gov/people/cathy.smith/best/); paper here: [Smith & Sardeshmukh (2000)](https://doi.org/10.1002/1097-0088(20001115)20:13%3C1543::AID-JOC579%3E3.0.CO;2-A)). Data based on GISST Nino3.4 [^1] and CRU/Jones SOI (1870-present): [https://psl.noaa.gov/people/cathy.smith/best/#values](https://psl.noaa.gov/people/cathy.smith/best/#values) (PSL also have a version running only to 2003 [https://psl.noaa.gov/data/correlation/censo.long.data](https://psl.noaa.gov/data/correlation/censo.long.data))
+	- A simpler multivariate index is 'bivariate ENSO index' based only on individual timeseries of SOI and Nino3.4 rather than on patterns of SST and SLP (info here: [https://psl.noaa.gov/people/cathy.smith/best/](https://psl.noaa.gov/people/cathy.smith/best/); paper here: [Smith & Sardeshmukh (2000)](https://doi.org/10.1002/1097-0088(20001115)20:13%3C1543::AID-JOC579%3E3.0.CO;2-A)).
+	- Data based on GISST Nino3.4 [^1] and CRU/Jones SOI (1870-present): <span style='color: red;'>link currently not working</span> [https://psl.noaa.gov/people/cathy.smith/best/#values](https://psl.noaa.gov/people/cathy.smith/best/#values)
+	- PSL also have a version 1948-present: [https://psl.noaa.gov/data/timeseries/month/DS/BEST/](https://psl.noaa.gov/data/timeseries/month/DS/BEST/)
+	- PSL also have a version running only to 2003: [https://psl.noaa.gov/data/correlation/censo.long.data](https://psl.noaa.gov/data/correlation/censo.long.data))
 
 #### Footnotes
 
