@@ -50,8 +50,9 @@ These Nino indices also vary according to which SST dataset was used.
 	- "Centred" Nino3.4 based on ERSSTv5 (1950-present): [Sea Surface Temperature (SST) section here https://www.cpc.ncep.noaa.gov/data/indices/](https://www.cpc.ncep.noaa.gov/data/indices/)
 	- Oceanic Nino Index (ONI) (I think this is just a 3-month running average of the "Centred" Nino3.4) based on ERSSTv5 (1950-present): [Sea Surface Temperature (SST) section here https://www.cpc.ncep.noaa.gov/data/indices/](https://www.cpc.ncep.noaa.gov/data/indices/) and data also listed here https://origin.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php
 	- "relative" Nino3.4 index based on ERSSTv5 (1950-present): [Sea Surface Temperature (SST) section here https://www.cpc.ncep.noaa.gov/data/indices/](https://www.cpc.ncep.noaa.gov/data/indices/)
-- NOAA/ESRL:
+- NOAA/PSL (formerly NOAA/ESRL):
 	- Nino3.4 based on HadISST (1870-present): [https://psl.noaa.gov/data/timeseries/month/DS/Nino34/](https://psl.noaa.gov/data/timeseries/month/DS/Nino34/)
+	- Many other Nino timeseries are also now available at PSL: [https://psl.noaa.gov/data/timeseries/month/](https://psl.noaa.gov/data/timeseries/month/)
 - Miami:
 	- Nino3.4 and ONI based on ERSSTv5 (1854-present): [https://bmcnoldy.rsmas.miami.edu/tropics/oni/ONI_NINO34_1854-2023.txt](https://bmcnoldy.rsmas.miami.edu/tropics/oni/ONI_NINO34_1854-2023.txt)
 
